@@ -1,16 +1,18 @@
 # SmartGate-with-Esp32
-Automatic Gate Using ESP32, HC-SR04 and IR Sensor
+Automatic Gate Using ESP32, HC-SR04 and IR The
 
 Overview
 
-This project is an automatic gate system built using an ESP32, an HC-SR04 ultrasonic sensor, an IR obstacle sensor, and a servo motor.
+This project is an automatic gate system built using an ESP32, an HC-SR04 ultrasonic sensor, an IR obstacle sensor, and a servo motmotor
 
 The system detects approaching objects and automatically opens the gate. After a short delay, the gate closes again.
 
 This project was built as one of my first hands-on ESP32 projects and served as an introduction to sensors, actuators, voltage dividers, and embedded programming.
 
 ---
+[Watch the Demo Video](https://drive.google.com/file/d/1Hyte0X9I13qH5gZYl592uKODJuCxJqe7/view?usp=drivesdk)
 
+---
 Components Used
 
 - ESP32 NodeMCU (38-pin)
@@ -72,18 +74,15 @@ What I Learned
 - Ultrasonic distance measurement
 - Servo motor control
 - Breadboard prototyping
-- Sensor calibration
-- Voltage divider design
-- 5V to 3.3V logic-level interfacing
+- Sensor programming
+- V to 3.3V logic-level interfacing
 - Hardware troubleshooting and debugging
 
 ---
 
 Current Status
 
-✅ Working Successfully
-
-The system detects objects and automatically opens and closes the gate as intended.
+✅ Working SuccessfullServoeshooting system detects objects and automatically opens and closes the gate as intended.
 
 ---
 
