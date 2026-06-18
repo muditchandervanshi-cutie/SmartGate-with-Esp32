@@ -82,7 +82,8 @@ What I Learned
 
 Current Status
 
-✅ Working SuccessfullServoeshooting system detects objects and automatically opens and closes the gate as intended.
+✅ Working Successfull
+system detects objects and automatically opens and closes the gate as intended.
 
 ---
 
