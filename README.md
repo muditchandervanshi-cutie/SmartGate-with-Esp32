@@ -161,6 +161,6 @@ This repository contains:
 
 Author
 
-Engineering student exploring embedded systems, electronics, programming, and automation through hands-on projectsproject
+Engineering student exploring embedded systems, electronics, programming, and automation through hands-on projects.
 
 ---
